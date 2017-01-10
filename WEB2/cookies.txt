@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.quad.fr	TRUE	/	FALSE	1999999999	SERVERID567	204048
+
